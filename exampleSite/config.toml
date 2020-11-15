@@ -1,4 +1,4 @@
-baseURL = "http://seorankmyth.com"
+baseURL = "https://seorankmyth.netlify.app"
 disableLanguages = []
 disqusShortname = "educenter"
 paginate = "6"
