@@ -1,7 +1,7 @@
 {{ define "main" }}
 
 <!-- blog details -->
-<section class="section-sm">
+<section class="section-sm blog-post">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 order-2 order-lg-1">
@@ -32,12 +32,12 @@
           <div class="col-12 mb-5">
             {{ .Content }}
           </div>
-          <!-- comments -->
+          <!-- comments
           {{ if site.DisqusShortname }}
           <div class="col-12">
             {{ template "_internal/disqus.html" . }}
           </div>
-          {{ end }}
+          {{ end }} -->
         </div>
       </div>
       {{ partial "blog-sidebar.html" . }}
