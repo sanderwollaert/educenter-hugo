@@ -131,14 +131,14 @@ name = "Contact"
 url = "contact"
 weight = 5
 [params]
-address = "9567 Turner Trace Apt. BC C3G8A4"
-author = "Themefisher"
+address = ""
+author = "SEO Rank Myth"
 contact_form_action = "#"
-description = "This is meta description"
-email = "info@educenter.com"
+description = "Providing SEO & content marketing services & tutorials for business owners and digital content creators."
+email = "info@seorankmyth.com"
 google_analitycs_id = ""
 logo = "images/logo.png"
-mobile = "+211234565523"
+mobile = ""
 top_header = true
 [params.cookies]
 enable = true
