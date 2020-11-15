@@ -1,32 +1,39 @@
 ---
-title: "Elegant Light Box Paper Cut Dioramas"
-date: 2019-07-06T15:27:17+06:00
-draft: false
-# page title background image
-bg_image: "images/backgrounds/page-title.jpg"
-# meta description
-description : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore. dolore magna aliqua. Ut enim ad minim veniam, quis nostrud."
-# post thumbnail
-image: "images/blog/post-3.jpg"
-# post author
-author: "Mark Dinn"
-# taxonomy
-categories: ["Eco System"]
-tags: ["Advice", "Eco"]
-# type
-type: "post"
+title: How to make use of the "description" meta tag
+date: 2020-11-15T09:45:17+00:00
+bg_image: images/backgrounds/page-title.jpg
+description: The description tag should accurately summarize the page content and
+  should be unique
+image: images/blog/post-3.jpg
+author: Sander Wollaert
+categories:
+- SEO
+tags: []
+type: post
+
 ---
+### Summaries can be defined for each page
 
-### The standard Lorem Ipsum passage, used since the 1500s
+A page's description meta tag gives Google and other search engines a summary of what the page is about. Whereas a page's title may be a few words or a phrase, a page's description meta tag might be a sentence or two or a short paragraph. Google Webmaster Tools provides a handy [content analysis section](http://googlewebmastercentral.blogspot.com/2007/12/new-content-analysis-and-sitemap.html) that'll tell you about any description meta tags that are either too short, long, or duplicated too many times (the same information is also shown for
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+### What are the merits of description meta tags?
 
+Description meta tags are important because **Google might use them as snippets for your pages**. Note that we say "might" because Google may choose to use a relevant section of your page's visible text if it does a good job of matching up with a user's query. Alternatively, Google might use your site's description in the Open Directory Project if your site is listed there (learn how to [prevent search engines from displaying ODP data](http://www.google.com/support/webmasters/bin/answer.py?answer=35264)). Adding description meta tags to each of your pages is always a good practice in case Google cannot find a good selection of text to use in the snippet. The Webmaster Central Blog has an informative post on [improving snippets with better description meta tags. ](http://googlewebmastercentral.blogspot.com/2007/09/improve-snippets-with-meta-description.html)
 
-#### 1914 translation by H. Rackham
-But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, **the master-builder** of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?
+Words in the snippet are bolded when they appear in the user's query. This gives the user clues about whether the content on the page matches with what he or she is looking for. 
 
-> On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee the pain and trouble that are bound to ensue
+### Best Practices
 
-#### Section 1.10.33 of "de Finibus Bonorum et Malorum", written by Cicero in 45 BC
+#### Accurately summarize the page's content
 
-At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Write a description that would both inform and interest users if they saw your description meta tag as a snippet in a search result.
+
+* **Avoid** writing a description meta tag that has no relation to the content on the page
+* **Avoid** using generic descriptions like "This is a web page" or "Page about baseball cards" filling the description with only keywords 
+* **Avoid** copying and pasting the entire content of the document into the description meta tag
+
+#### Use unique descriptions for each page
+
+Having a different description meta tag for each page helps both users and Google, especially in searches where users may bring up multiple pages on your domain (e.g. searches using the [site: operator]()). If your site has thousands or even millions of pages, hand-crafting description meta tags probably isn't feasible. In this case, you could automatically generate description meta tags based on each page's content.
+
+* **Avoid** using a single description meta tag across all of your site's pages or a large group of pages
