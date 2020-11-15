@@ -184,7 +184,7 @@ link = "seorankmyth"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "seorankmyth"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
