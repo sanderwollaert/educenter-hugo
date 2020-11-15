@@ -1,6 +1,6 @@
 ---
 title: How to improve the structure of your URLs
-date: 2020-11-15T12:19:17+00:00
+date: 2020-11-15T12:19:17.000+00:00
 bg_image: images/backgrounds/page-title.jpg
 description: Improve the structure of your URLs by using simple-to-understand URLs
   which will convey content information easily
