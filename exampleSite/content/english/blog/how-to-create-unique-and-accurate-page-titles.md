@@ -1,6 +1,6 @@
 ---
 title: How to create unique and accurate page titles
-date: 2020-11-15T09:35:17+00:00
+date: 2020-11-15T09:35:17.000+00:00
 bg_image: images/backgrounds/page-title.jpg
 description: The page titles should by in the title tag, because the page tile content
   is displayed in search results.
