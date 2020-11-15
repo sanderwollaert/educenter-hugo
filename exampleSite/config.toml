@@ -12,61 +12,18 @@ home = "Home"
 languageCode = "en-us"
 languageName = "En"
 weight = 1
-[[Languages.en.menu.footer]]
-name = "teacher"
-url = "teacher"
-[[Languages.en.menu.footer]]
-name = "notice"
-url = "notice"
-[[Languages.en.menu.footer]]
-name = "event"
-url = "event"
-[[Languages.en.menu.footer]]
-name = "scholarship"
-url = "scholarship"
-[[Languages.en.menu.footer]]
-name = "research"
-url = "research"
-[[Languages.en.menu.main]]
+[[menu.main]]
 name = "About"
-url = "about"
+URL = "about"
 weight = 1
-[[Languages.en.menu.main]]
-name = "course"
-url = "course"
-weight = 2
-[[Languages.en.menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 3
-[[Languages.en.menu.main]]
-name = "teacher"
-parent = "Pages"
-url = "teacher"
-[[Languages.en.menu.main]]
-name = "notice"
-parent = "Pages"
-url = "notice"
-[[Languages.en.menu.main]]
-name = "event"
-parent = "Pages"
-url = "event"
-[[Languages.en.menu.main]]
-name = "scholarship"
-parent = "Pages"
-url = "scholarship"
-[[Languages.en.menu.main]]
-name = "research"
-parent = "Pages"
-url = "research"
-[[Languages.en.menu.main]]
+[[menu.main]]
 name = "blog"
-url = "blog"
-weight = 4
-[[Languages.en.menu.main]]
+URL = "blog"
+weight = 2
+[[menu.main]]
 name = "Contact"
-url = "contact"
-weight = 5
+URL = "contact"
+weight = 3
 [params]
 address = ""
 author = "SEO Rank Myth"
