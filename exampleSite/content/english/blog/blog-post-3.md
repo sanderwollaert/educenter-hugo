@@ -14,7 +14,7 @@ type: post
 ---
 ### Summaries can be defined for each page
 
-A page's description meta tag gives Google and other search engines a summary of what the page is about. Whereas a page's title may be a few words or a phrase, a page's description meta tag might be a sentence or two or a short paragraph. Google Webmaster Tools provides a handy [content analysis section](http://googlewebmastercentral.blogspot.com/2007/12/new-content-analysis-and-sitemap.html) that'll tell you about any description meta tags that are either too short, long, or duplicated too many times (the same information is also shown for <title> tags). Like the <title> tag, the description meta tag is placed within the tag of your HTML document.
+A page's description meta tag gives Google and other search engines a summary of what the page is about. Whereas a page's title may be a few words or a phrase, a page's description meta tag might be a sentence or two or a short paragraph. Google Webmaster Tools provides a handy [content analysis section](http://googlewebmastercentral.blogspot.com/2007/12/new-content-analysis-and-sitemap.html) that'll tell you about any description meta tags that are either too short, long, or duplicated too many times (the same information is also shown for \`<title>\` tags). Like the \`<title>\` tag, the description meta tag is placed within the tag of your HTML document.
 
 ### What are the merits of description meta tags?
 
