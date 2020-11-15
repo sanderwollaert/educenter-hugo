@@ -7,7 +7,7 @@ themesDir = "../.."
 title = "SEO Rank Myth"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "&copy; 2020 seorankmyth.com - All rights reserved."
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
