@@ -117,13 +117,13 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074"
 [[params.social]]
 icon = "ti-facebook"
-link = "seorankmyth"
+link = "https://facebook.com/seorankmyth"
 title = "facebook"
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "seorankmyth"
+link = "https://twitter.com/seorankmyth"
 title = "twitter"
 [[params.social]]
 icon = "ti-instagram"
-link = "seorankmyth"
+link = "https://instagram.com/seorankmyth"
 title = "instagram"
