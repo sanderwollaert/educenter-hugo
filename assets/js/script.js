@@ -30,7 +30,7 @@
   });
 
   //Hero Slider
-  $('.hero-slider').slick({
+  /*$('.hero-slider').slick({
     autoplay: true,
     autoplaySpeed: 7500,
     pauseOnFocus: false,
@@ -42,7 +42,7 @@
     nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-angle-right\'></i></button>',
     dots: true
   });
-  $('.hero-slider').slickAnimation();
+  $('.hero-slider').slickAnimation();*/
 
   // venobox popup
   $(document).ready(function () {
