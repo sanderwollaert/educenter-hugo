@@ -1,6 +1,6 @@
 ---
 title: How to make use of the "description" meta tag
-date: 2020-11-15T09:45:17+00:00
+date: 2020-11-15T09:45:17.000+00:00
 bg_image: images/backgrounds/page-title.jpg
 description: The description tag should accurately summarize the page content and
   should be unique
