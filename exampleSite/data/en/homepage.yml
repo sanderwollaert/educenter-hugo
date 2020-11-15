@@ -1,123 +1,81 @@
-################################# Slider #####################################
+---
 slider:
-  enable : true
-  bg_image : "images/banner/banner-1.jpg"
+  enable: true
+  bg_image: images/banner/banner-1.jpg
   slider_item:
-    # slider item loop
-    title : "Discover the art of Online Marketing"
-    content : "How to write headlines that get results, spread the word about your business."
-    # available animation : left, right, up, down
+    title: Discover the art of Online Marketing
+    content: How to write headlines that get results, spread the word about your business.
     button:
-      enable : true
-      label : "Start here"
-      link : "contact"
-
-############################# blog ################################
+      enable: true
+      label: Start here
+      link: contact
 blog:
-  enable : true
-  title : "Blog"
-  # blog item comes from "content/**/blog" folder.
-
-
-############################### Banner feature ###############################
+  enable: true
+  title: Blog
 banner_feature:
-  enable : false
-  image : "images/banner/banner-feature.png"
+  enable: false
+  image: images/banner/banner-feature.png
   feature_item:
-    # feature item loop
-    - name : "Scholorship News"
-      icon : "ti-book" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Our Notice Board"
-      icon : "ti-blackboard" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Our Achievements"
-      icon : "ti-agenda" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-    # feature item loop
-    - name : "Admission Now"
-      icon : "ti-write" # icon pack : https://themify.me/themify-icons
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  dolore magna aliqua. Ut enim ad"
-
-
-
-
-
-############################# Course ################################
+  - name: Scholorship News
+    icon: ti-book
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Our Notice Board
+    icon: ti-blackboard
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Our Achievements
+    icon: ti-agenda
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
+  - name: Admission Now
+    icon: ti-write
+    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+      tempor incididunt ut labore  dolore magna aliqua. Ut enim ad
 course:
-  enable : false
-  title : "Our Course"
-  # course item comes from "content/**/course" folder.
-
-########################## Call to action ############################
+  enable: false
+  title: Our Course
 cta:
-  enable : true
-  subtitle : "Secret Guide"
-  title : "Discover the art of Online Marketing"
+  enable: true
+  subtitle: Secret Guide
+  title: Discover the art of Online Marketing
   button:
-    enable : true
-    label : "Start Here"
-    link : "contact"
-
-
-######################## Success story #############################
+    enable: true
+    label: Start Here
+    link: contact
 success_story:
-  enable : true
-  bg_image : "images/backgrounds/success-story.jpg"
-  title : "Success Stories"
-  content : "“It doesn't matter what business you do, you can always take these skills. The information you get is priceless.”
-            
-            
-  “When I came here, I was blown away. This is what I was looking for – the nuts and bolts, not the whipped cream.”
+  enable: true
+  bg_image: images/backgrounds/success-story.jpg
+  title: Success Stories
+  content: |-
+    “It doesn't matter what business you do, you can always take these skills. The information you get is priceless.”
 
+    “When I came here, I was blown away. This is what I was looking for – the nuts and bolts, not the whipped cream.”
 
-  ”I've never seen such quality. It's exciting when you realize the possibilities.”"
-  # video link
-  video_link : "https://www.youtube.com/watch?v=ResipmZmpDU"
-
-
-############################# event ################################
+    ”I've never seen such quality. It's exciting when you realize the possibilities.”
+  video_link: https://www.youtube.com/watch?v=ResipmZmpDU
 event:
-  enable : false
-  title : "Upcoming Events"
-  # event item comes from "content/**/event" folder.
-
-  
-########################### funfacts ############################
+  enable: false
+  title: Upcoming Events
 funfacts:
-  enable : true
+  enable: true
   funfact_item:
-    # funfact item loop
-    - name : "users"
-      count : "1375000"
-
-    # funfact item loop
-    - name : "keywords"
-      count : "26000"
-
-    # funfact item loop
-    - name : "posts"
-      count : "18500"
-
-    # funfact item loop
-    - name : "websites"
-      count : "1000"
-
-# funfact is for about page
-
-
-  ############################## about ##################################
+  - name: users
+    count: "1375000"
+  - name: keywords
+    count: "26000"
+  - name: posts
+    count: "18500"
+  - name: websites
+    count: "1000"
 about:
-  enable : true
-  title : "About SEO Rank Myth"
-  image : "images/about/about-us.jpg"
-  content : "Leading the charge as CEO of SEO Rank Myth is Sander Wollaert. A 11-year online marketing vet who has founded multiple companies from scratch, increased the rank of over a thousand sites and educated multiple entrepreneurs worldwide."
+  enable: true
+  title: About SEO Rank Myth
+  image: images/about/about-us.jpg
+  content: Leading the charge as CEO of SEO Rank Myth is Sander Wollaert. A 11-year
+    online marketing vet who has founded multiple companies from scratch, increased
+    the rank of over a thousand sites and educated multiple entrepreneurs worldwide.
   button:
-    enable : true
-    label : "Learn more"
-    link : "about"
+    enable: true
+    label: Learn more
+    link: about/
