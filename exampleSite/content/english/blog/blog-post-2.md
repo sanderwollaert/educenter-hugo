@@ -14,7 +14,7 @@ type: post
 ---
 ### Indicate page titles by using title tags
 
-A title tag tells both users and search engines what the topic of a particular page is. The <title> tag should be placed within the <head> tag of the HTML document. Ideally, you should create a unique title for each page on your site.
+A title tag tells both users and search engines what the topic of a particular page is. The \`<title>\` tag should be placed within the \`<head>\` tag of the HTML document. Ideally, you should create a unique title for each page on your site.
 
 ### Page title contents are displayed in search results
 
