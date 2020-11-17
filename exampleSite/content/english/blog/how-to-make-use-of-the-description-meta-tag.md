@@ -37,5 +37,3 @@ Write a description that would both inform and interest users if they saw your d
 Having a different description meta tag for each page helps both users and Google, especially in searches where users may bring up multiple pages on your domain (e.g. searches using the [site: operator]()). If your site has thousands or even millions of pages, hand-crafting description meta tags probably isn't feasible. In this case, you could automatically generate description meta tags based on each page's content.
 
 * **Avoid** using a single description meta tag across all of your site's pages or a large group of pages
-
-Mr Sbaaaaaaiz
